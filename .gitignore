@@ -1,0 +1,28 @@
+﻿
+# --- Modelos de Lenguaje y Pesos IA ---
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+*.tflite
+models/
+checkpoints/
+weights/
+
+# --- Entornos y Secretos ---
+.env
+venv/
+.venv/
+__pycache__/
+node_modules/
+bot_faces/sessions/session/Default/Cache/Cache_Data/sqldb1-wal
+bot_qwen_local/models/Llama-3.2-3B-Instruct-Q4_K_M.gguf
+bot_qwen_local/node_modules/@node-llama-cpp/win-x64-cuda/bins/win-x64-cuda/ggml-cuda.dll
+bot_qwen_local/node_modules/@node-llama-cpp/win-x64-cuda-ext/bins/win-x64-cuda/fallback/ggml-cuda.dll
+core_bot/node_modules/@xenova/transformers/.cache/Xenova/whisper-base/onnx/decoder_model_merged_quantized.onnx
+core_bot/node_modules/puppeteer-core/.local-chromium/win64-1045629/chrome-win/chrome.dll
+core_bot/node_modules/puppeteer-core/.local-chromium/win64-1045629/chrome-win/interactive_ui_tests.exe

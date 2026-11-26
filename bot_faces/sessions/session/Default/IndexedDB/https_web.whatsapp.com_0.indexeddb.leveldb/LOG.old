@@ -1,0 +1,18 @@
+2026/02/19-12:54:01.608 6528 Reusing MANIFEST C:\Users\dduarte\Documents\MEGA\Proyectos_Programacion\Bots-Node\bot_faces\sessions\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/19-12:54:01.626 6528 Recovering log #183
+2026/02/19-12:54:01.688 6528 Reusing old log C:\Users\dduarte\Documents\MEGA\Proyectos_Programacion\Bots-Node\bot_faces\sessions\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000183.log 
+2026/02/19-12:54:04.947 16f0 Level-0 table #192: started
+2026/02/19-12:54:04.980 16f0 Level-0 table #192: 1064813 bytes OK
+2026/02/19-12:54:04.988 16f0 Delete type=0 #183
+2026/02/19-12:54:05.005 16f0 Compacting 1@1 + 4@2 files
+2026/02/19-12:54:05.098 16f0 Generated table #193@1: 71712 keys, 2256759 bytes
+2026/02/19-12:54:05.147 16f0 Generated table #194@1: 27091 keys, 2182382 bytes
+2026/02/19-12:54:05.211 16f0 Generated table #195@1: 26369 keys, 2190269 bytes
+2026/02/19-12:54:05.270 16f0 Generated table #196@1: 86431 keys, 2099909 bytes
+2026/02/19-12:54:05.270 16f0 Compacted 1@1 + 4@2 files => 8729319 bytes
+2026/02/19-12:54:05.274 16f0 compacted to: files[ 0 0 8 0 0 0 0 ]
+2026/02/19-12:54:05.274 16f0 Delete type=2 #185
+2026/02/19-12:54:05.274 16f0 Delete type=2 #186
+2026/02/19-12:54:05.274 16f0 Delete type=2 #187
+2026/02/19-12:54:05.274 16f0 Delete type=2 #188
+2026/02/19-12:54:05.274 16f0 Delete type=2 #192

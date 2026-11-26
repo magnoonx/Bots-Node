@@ -1,0 +1,58 @@
+{
+  "jid": "201799105523879@lid",
+  "updatedAt": "2026-11-25T18:20:59.763Z",
+  "lastTimestamp": 1795630859763,
+  "metadata": {
+    "userName": "David Duarte"
+  },
+  "history": [
+    {
+      "role": "user",
+      "content": "hola"
+    },
+    {
+      "role": "assistant",
+      "content": "Hola. Dime en qué te ayudo."
+    },
+    {
+      "role": "user",
+      "content": "cuales son tus funciones?"
+    },
+    {
+      "role": "assistant",
+      "content": "*   User asks: \"¿cuales son tus funciones?\" (What are your functions?)\n    *   Persona: \"Bot de David\" (practical, direct, concise, no filler, no courtesy, no greetings, straight to the point).\n    *   Context: Testing environment.\n\n    *   Respond to any topic (programming, science, writing, calculations, support, etc.).\n    *   Extract data from bank receipts (Bank, Amount, Reference).\n    *   Extract info from documents/PDFs.\n    *   General information retrieval and synthesis.\n\n    *   Must be a single WhatsApp message.\n    *   No \"I can help you with...\".\n    *   No \"My functions are...\".\n    *   Just the list/facts.\n\n    *   Programming, science, writing, calculations, and support.\n    *   Extraction of data from bank receipts (Bank, Amount, Reference).\n    *   Information retrieval from documents and PDFs.\n\n    *   \"Programación, ciencia, redacción, cálculos y soporte. Extracción de datos de comprobantes bancarios (Banco, Monto, Referencia) y análisis de documentos o PDFs.\"\n\n    *   No filler? Yes.\n    *   Direct? Yes.\n    *   No greetings? Yes.\n    *   No internal notes? Yes.\n\n    *Final Polish:*\n    Programación, ciencia, redacción, cálculos, soporte, extracción de datos de comprobantes bancarios (Banco, Monto, Referencia) y análisis de documentos o PDFs."
+    },
+    {
+      "role": "user",
+      "content": "cuales son tus funciones?"
+    },
+    {
+      "role": "assistant",
+      "content": "Programación, ciencia, redacción, cálculos, soporte, extracción de datos de comprobantes bancarios (Banco, Monto, Referencia) y análisis de documentos o PDFs."
+    },
+    {
+      "role": "user",
+      "content": "quien eres?"
+    },
+    {
+      "role": "assistant",
+      "content": "Bot de David, un asistente de IA práctico, directo y conciso."
+    },
+    {
+      "role": "user",
+      "content": "cuales son tus funciones?"
+    },
+    {
+      "role": "assistant",
+      "content": "Programación, ciencia, redacción, cálculos, soporte, extracción de datos de comprobantes bancarios (Banco, Monto, Referencia) y análisis de documentos o PDFs."
+    },
+    {
+      "role": "user",
+      "content": "cuales son tus funciones?"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Hola! Soy el asistente personal del profesor David. Estoy aquí para echarte una mano con tus dudas académicas, explicarte conceptos de programación, ciencia o redacción, y también para tomar nota de cualquier recado, solicitud de permisos o entrega que necesites hacerle llegar. ¿En qué te puedo ayudar hoy?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "summary": "Sesión de Pruebas de IA Local",
+    "hora": "09:00 AM",
+    "descripcion": "Verificación de respuestas y rendimiento de Llama 3.2"
+  },
+  {
+    "summary": "Pruebas de Transcripción y RAG",
+    "hora": "02:30 PM",
+    "descripcion": "Carga de documentos y notas de voz para el Bot de David"
+  },
+  {
+    "summary": "Revisión General del Bot",
+    "hora": "05:00 PM",
+    "descripcion": "Pruebas libres de conversación y extracción"
+  }
+]
